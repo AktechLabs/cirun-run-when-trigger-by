@@ -12,4 +12,3 @@ runners:
     workflow: .github/workflows/blank.yml
     # Number of runners to provision on every trigger on Actions job
     count: 1
-    run_only_when_trigger_by: new-team
